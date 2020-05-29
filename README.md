@@ -1,2 +1,2 @@
 Maestria en Explotacion de Datos y Descubrimiento del Conocimiento:
-Trabajo Sobre Predicción secuencial de Series de Tiempo 
+Trabajo Sobre Predicción Secuencial de Series de Tiempo 
